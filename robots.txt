@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xodeijang.miensol.pl/sitemap.xml
